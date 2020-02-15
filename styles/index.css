@@ -6,6 +6,7 @@ p {
 }
 h2 {
     text-align: center;
+    margin: 50px;
 }
 table {
     border-collapse: collapse;
@@ -23,4 +24,15 @@ body {
 }
 .content {
     text-align: left;
+}
+.bottom {
+    font-weight: 600;
+    font-size: larger;
+    margin: 100px;
+}
+.write {
+    margin: 100px;
+}
+.pic {
+    margin: 150px;
 }
