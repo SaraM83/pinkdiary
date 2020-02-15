@@ -1,12 +1,16 @@
 .top {
     color: pink;
+    font-family: Helvetica;
 }
 p {
     text-align: right;
+    font-family: Helvetica;
 }
 h2 {
     text-align: center;
     margin: 50px;
+    font-family: Helvetica;
+    font-weight: 300;
 }
 table {
     border-collapse: collapse;
@@ -21,18 +25,24 @@ body {
 }
 .lista {
     text-align: left;
+    font-family: Helvetica; 
 }
 .content {
     text-align: left;
+    font-family: Helvetica;
 }
 .bottom {
     font-weight: 600;
     font-size: larger;
     margin: 100px;
+    font-family: Helvetica;
 }
 .write {
     margin: 100px;
 }
 .pic {
+    margin: 150px;
+}
+#course {
     margin: 150px;
 }
