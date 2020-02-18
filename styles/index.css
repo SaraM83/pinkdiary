@@ -1,14 +1,18 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
   }
+
 .top {
     color: pink;
     font-family: Helvetica;
-    padding: 20px;
+    padding: 50px;
+    margin: 20px;
+    border: rgb(206, 79, 79); 
+    border-style: solid; 
+    border-radius: 15px;
 }
-p {
+.name {
     text-align: right;
     font-family: Helvetica;
 }
@@ -32,6 +36,8 @@ body {
 .links {
     text-align: left;
     font-family: Helvetica; 
+    padding: 20px;
+
 
 }
 .content {
