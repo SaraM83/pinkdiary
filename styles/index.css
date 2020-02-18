@@ -1,12 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
 .top {
     color: pink;
     font-family: Helvetica;
+    padding: 20px;
 }
 p {
     text-align: right;
     font-family: Helvetica;
 }
-h2 {
+.headings {
     text-align: center;
     margin: 50px;
     font-family: Helvetica;
@@ -23,9 +29,10 @@ table th, td {
 body {
     text-align: center;
 }
-.lista {
+.links {
     text-align: left;
     font-family: Helvetica; 
+
 }
 .content {
     text-align: left;
@@ -38,11 +45,9 @@ body {
     font-family: Helvetica;
 }
 .write {
-    margin: 100px;
+    margin-bottom: 100px;
 }
 .pic {
-    margin: 150px;
-}
-#course {
-    margin: 150px;
+    margin-bottom: 100px;
+    margin-top: 100px;
 }
