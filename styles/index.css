@@ -6,7 +6,7 @@
     color: pink;
     font-family: Helvetica;
     padding: 50px;
-    margin: 20px;
+    margin: 20px 20px 0px 20px;
     border: rgb(206, 79, 79); 
     border-style: solid; 
     border-radius: 15px;
@@ -18,13 +18,12 @@
 }
 .headings {
     text-align: center;
-    margin: 50px;
+    margin: 30px;
     font-family: Helvetica;
     font-weight: 300;
 }
-table {
-    border-collapse: collapse;
-    width: 100%; 
+content {
+    border-collapse: collapse; 
 }
 table th, td {
     border: 1px solid black;
@@ -35,11 +34,12 @@ body {
 .links {
     text-align: left;
     font-family: Helvetica; 
-    padding: 20px 20px 0px 20px;
+    padding: 0px 50px 0px 50px;
 }
 .content {
     text-align: left;
     font-family: Helvetica;
+    width: 100%;
 }
 .bottom {
     font-weight: 600;
@@ -48,12 +48,14 @@ body {
     font-family: Helvetica;
 }
 .write {
-    margin-bottom: 100px;
+    margin: 20px;
+    text-align: left;
+    padding: 50px 50px 50px 5px;
+    border: 3px; 
 }
 .pic {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    padding: 0px 25px 25px 25px; 
+    margin: 20px;
+    padding: 50px; 
     border: rgb(206, 79, 79); 
     border-style: solid;
     border-radius: 15px;
